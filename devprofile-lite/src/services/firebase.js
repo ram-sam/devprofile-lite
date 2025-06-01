@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore';
 
 // Configuração do Firebase (estas credenciais serão substituídas pelas do usuário)
 const firebaseConfig = {
-  apiKey: "AIzaSyDummyApiKeyForDevProfileLite",
-  authDomain: "devprofile-lite.firebaseapp.com",
-  projectId: "devprofile-lite",
-  storageBucket: "devprofile-lite.appspot.com",
-  messagingSenderId: "123456789012",
-  appId: "1:123456789012:web:abcdef1234567890abcdef"
+  apiKey: "AIzaSyBG9UDj4nz4O0cu8BrE3AlYvIb_rflehuQ",
+  authDomain: "devprofile-lite-9eda7.firebaseapp.com",
+  projectId: "devprofile-lite-9eda7",
+  storageBucket: "devprofile-lite-9eda7.firebasestorage.app",
+  messagingSenderId: "109189908691",
+  appId: "1:109189908691:web:3788b6c3f3934a46912c26"
 };
 
 // Inicializa o Firebase

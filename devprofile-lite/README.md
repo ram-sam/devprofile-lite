@@ -89,7 +89,7 @@ Para fazer o deploy desta aplicação, você pode utilizar:
 
 ## Autor
 
-[Seu Nome]
+Samantha
 
 ## Licença
 
